@@ -1,1 +1,2 @@
-# GitFlow-Exercise
+# git-flow
+Implementing gitflow workflow principles.
